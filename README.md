@@ -1,4 +1,6 @@
-<img src="./.assets/banner.png" width="100%" height="100px" />
+<a target="_blank" href="https://github.com/LuisFOsG">
+  <img src="./.assets/banner.png" width="100%" height="100px" />
+</a>
 
 <p align="center">
   <a target="_blank" href="https://github.com/LuisFOsG">
